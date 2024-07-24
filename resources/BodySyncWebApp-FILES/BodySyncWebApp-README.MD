@@ -8,6 +8,8 @@
   <source src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/BodySyncWebApp-FILES/BodySyncWebApp%20DEMO.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<iframe width="560" height="315" src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/BodySyncWebApp-FILES/BodySyncWebApp%20DEMO.mp4" allowfullscreen></iframe>
+
 - **GIF:** ![Project GIF](#)  
 - **Screenshots:** 
   - ![Screenshot 1](#)
