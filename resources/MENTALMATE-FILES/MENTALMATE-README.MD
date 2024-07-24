@@ -2,7 +2,7 @@
 
 
 - **Video Demo:** [Watch here](#)  
-- **GIF:** (https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE_DemoSlides_GIF.gif){: width="200px" }
+- **GIF:**   <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE_AI_GIF.gif" width="200" alt="Image 1">
 - **Screenshots:** 
   - ![Screenshot 1](https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-1.png)
   - ![Screenshot 2](https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-2.png)
