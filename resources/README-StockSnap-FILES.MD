@@ -1,5 +1,3 @@
-#under construction
-
 # StockSnap
 
 Stock Portfolio Tracker is a web application that allows users to manage their stock portfolios, track stock prices, and view historical stock data.
