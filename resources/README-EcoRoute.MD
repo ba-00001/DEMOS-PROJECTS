@@ -1,6 +1,3 @@
-#UNDER CONSTRUCTION
-
-
 # EcoRoute
 
 EcoRoute is a web application designed to help drivers find the most fuel-efficient routes for their daily commutes and trips. By optimizing routes based on real-time traffic data, road conditions, and weather, EcoRoute aims to reduce fuel consumption and environmental impact.
