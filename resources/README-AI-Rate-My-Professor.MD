@@ -1,5 +1,3 @@
-#UNDER CONSTRUCTION
-
 # AI Rate My Professor
 
 ## Overview
