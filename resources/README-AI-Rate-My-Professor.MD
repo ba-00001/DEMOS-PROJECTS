@@ -4,9 +4,10 @@
 
 <div align="center">
   
-    https://
+    
 
 </div>
+https://
 
 ## Overview
 "AI Rate My Professor" is a web application that leverages artificial intelligence to provide students with insights and evaluations of their professors. The platform uses AI-driven techniques to analyze and summarize feedback from various sources, giving students a comprehensive overview of a professor's teaching style, effectiveness, and overall performance. The application is built with modern web development frameworks and libraries, ensuring a seamless and user-friendly experience.
