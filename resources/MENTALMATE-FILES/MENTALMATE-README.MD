@@ -11,15 +11,15 @@
 
 
 <div align="center">
-    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-1.png" alt="Screenshot 1" width="600"/>
+    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-1.png" alt="Screenshot 1" width="900"/>
 </div>
 
 <div align="center">
-    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-2.png" alt="Screenshot 2" width="600"/>
+    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-2.png" alt="Screenshot 2" width="900"/>
 </div>
 
 <div align="center">
-    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-3.png" alt="Screenshot 3" width="600"/>
+    <img src="https://github.com/ba-00001/DEMOS-PROJECTS/blob/main/resources/MENTALMATE-FILES/MENTALMATE%20PAGES-3.png" alt="Screenshot 3" width="900"/>
 </div>
 
 
