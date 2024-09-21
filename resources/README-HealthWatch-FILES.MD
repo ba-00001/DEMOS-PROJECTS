@@ -1,7 +1,13 @@
-#UNDER CONSTRUCTION
 
 # HealthWatch - API Fitbit Tracker / Personal Trainer
 
+
+**Video Demo**
+
+<div align="center">
+
+https://github.com/user-attachments/assets/563b2e9c-a658-41ad-a1f6-dcaf9bdc4abd
+</div>
 HealthWatch is a comprehensive personal health monitoring application designed for individuals with chronic conditions, health enthusiasts, and seniors who require regular health tracking. It leverages the power of Fitbit API integration to provide real-time data tracking and personalized health recommendations.
 
 ## Key Features
